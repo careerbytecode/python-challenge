@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "age": 30,
+        "city": "New York"
+    },
+    {
+        "name": "Bob Smith",
+        "email": "bob@example.com",
+        "age": 25,
+        "city": "San Francisco"
+    },
+    {
+        "name": "Charlie Brown",
+        "email": "charlie@example.com",
+        "age": 35,
+        "city": "Chicago"
+    }
+]
