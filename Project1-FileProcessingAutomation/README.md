@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Scenario 1: File Processing and Automation
 **Problem Statement:** Automating the process of reading and writing to files for data extraction and storage.
 
@@ -21,27 +20,3 @@ Python Modules Used:
 os and sys - for file system and system level operations
 json - for work with json files
 csv - for work with csv files
-=======
-## Scenario 1: File Processing and Automation
-**Problem Statement:** Automating the process of reading and writing to files for data extraction and storage.
-
-**Detailed Scenario:** A project requires automating the task of reading large data files (e.g., CSV or JSON), extracting useful information, and writing the extracted data into new files for further processing.
-
-**Usecase Approach:** Use Python’s file handling functions to read the data, process it, and write the output to new files.
-
-**Tools and Modules:** os, sys, json, csv
-
-══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
-
-Approach:
-
-provide file and filter data
-Open file and read data
-filter the required data
-Write output to a new file
-
-Python Modules Used:
-os and sys - for file system and system level operations
-json - for work with json files
-csv - for work with csv files
->>>>>>> 15e431db65721c2f94a86314c3bce1afb380af53
