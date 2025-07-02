@@ -8,10 +8,10 @@ if not os.path.exists(csv_file):
 
 with open(csv_file, mode='r') as file:
     reader = csv.DictReader(file)
-    for row in reader:
-        with open("other.csv", 'a') as other_file:
-            writer = csv.DictWriter(other_file, fieldnames=['name', 'email'])
-            if other_file.tell() == 0:
-                writer.writeheader()
+    with open("output.csv", 'w') as other_file:
+        writer = csv.DictWriter(other_file, fieldnames=['name', 'email'])
+        if other_file.tell() == 0:
+            writer.writeheader()
+        for row in reader:
             writer.writerow({'name': row['name'], 'email': row['email']})
     
