@@ -20,3 +20,14 @@ Python Modules Used:
 os and sys - for file system and system level operations
 json - for work with json files
 csv - for work with csv files
+
+══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
+
+Refrence:-
+for csv module, Read and write
+https://docs.python.org/3/library/csv.html#csv.DictReader
+https://docs.python.org/3/library/csv.html#csv.DictWriter
+
+for json module, Read and write
+https://docs.python.org/3/library/json.html#json.loads
+https://docs.python.org/3/library/json.html#json.dumps
