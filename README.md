@@ -70,6 +70,51 @@ Inside the same folder:
 At the end of each project:
 
 1. Post your progress on LinkedIn
+```
+🚀 Day 1 of #50DaysOfPython — Completed ✅
+📂 Project Name: File Processing Automation
+👨‍💻 Challenge by: @CareerByteCode
+
+Today, I kicked off my Python project journey by automating a real-world task — processing and organizing large text files efficiently using Python.
+
+🔧 Tools Used:
+
+Python
+
+File handling
+
+Error handling
+
+os, shutil modules
+
+📌 What I Did:
+
+Wrote a script to scan through a folder of .txt files
+
+Extracted relevant data
+
+Sorted and moved them based on content
+
+Added exception handling to manage corrupted/missing files
+
+💡 What I Learned:
+
+Real use of Python in file system automation
+
+Importance of clean, modular code
+
+Debugging through edge cases in file paths and permissions
+
+📸 Screenshots/GitHub:
+🔗 [GitHub Repo Link]
+🖼️ [Optional screenshot of terminal or code]
+
+✅ 1 down, 49 to go. This challenge is already giving me the real-world confidence I need to work in automation and DevOps!
+
+Let’s do this! 🔥
+
+#PythonProjects #DevReady #CareerByteCode #100DaysOfCode #PythonLearning #RealWorldCoding #LinkedInDaily #BuildInPublic
+```
 2. Share what you built and what you learned
 3. Tag:
 
