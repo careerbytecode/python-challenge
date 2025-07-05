@@ -12,15 +12,17 @@
 
 **Approach:**
 
-- Ask for the input folder where all files are located.  
-- Verify that the folder exists and is not empty.  
-- Create a backup of the folder as a tar file in case any file needs to be restored.  
-- Remove all content from the files except alphanumeric characters, spaces, and newlines.  
+- Prompt the user to enter the path to the input folder containing the text files.
+- Check if the specified folder exists and contains files to process.
+- Iterate through each text file in the folder, reading its contents.
+- Use regular expressions to remove all characters except letters, numbers, spaces, and newlines from each file.
+- Overwrite each file with the cleaned content.
 
 **Python Modules Used:**
 
-- `os` and `sys`: For file system and system-level operations.  
-- `re`: For regex search and removal of unwanted characters.  
+- `os`: For navigating directories and handling file paths.
+- `sys`: For command-line argument handling and exiting on errors.
+- `re`: For pattern matching and cleaning file contents.
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
