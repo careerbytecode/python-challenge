@@ -28,3 +28,5 @@ pip install requests bs4
 ```
 
 [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#find-all)
+
+![image](https://github.com/user-attachments/assets/15c57014-9cb1-4e41-a2a6-8bb5e2946094)
