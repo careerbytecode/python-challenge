@@ -1,8 +1,8 @@
 ## Scenario 3: Web Scraping for Real-Time Data Extraction
 
-**Problem Statement:** Extract real-time data from a website for analysis.
+**Problem Statement:** Extract data from a website for analysis.
 
-**Detailed Scenario:** The application needs to scrape data from a webpage regularly to monitor specific metrics (e.g., stock prices, weather data).
+**Detailed Scenario:** The application needs to scrape data from a webpage regularly to monitor specific metrics (e.g., stock prices, weather data, Team de).
 
 **Use Case Approach:** Use Python’s `requests` module to fetch the webpage and BeautifulSoup to extract the relevant data.
 
