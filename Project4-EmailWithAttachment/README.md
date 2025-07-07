@@ -30,10 +30,11 @@ Use the `smtplib` module to send emails and attach reports generated via Python.
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
-This type of script is widely applicable and has been used in various automation scenarios. For example, I have previously set up scheduled tasks for both outgoing and incoming emails. One automation involved sending an email from a mobile device containing a secret code and arguments in the subject line. When the email arrived at a designated Linux server, it triggered a script that parsed the subject and body for instructions, generated the requested report, and sent it to specified recipients. The process included multiple security checks, such as verifying the sender against an authorized user list, validating code combinations, and checking email headers before executing any actions.
+I have implemented similar scripts in various automation scenarios, setting up both scheduled and on-demand tasks for handling outgoing and incoming emails. 
+In one automation, an email sent from a mobile device or web browser included a secret code and arguments in the subject line. When the email arrived at a designated Linux server, it triggered a script that parsed the subject and body for instructions, generated the requested report, and sent it to the specified recipients. The process incorporated multiple security checks, such as verifying the sender against an authorized user list, validating code combinations, and inspecting email headers before executing any actions.
 
 I have used email aliases like this:
-You can use `/etc/aliases` to pipe email directly to a program for processing. For example, to run a script to process all email sent to `test@domain.com`, add this line to `/etc/aliases` (works for Postfix, Sendmail, etc.):
+use `/etc/aliases` to pipe email directly to a program for processing. For example, to run a script to process all email sent to `test@domain.com`, add this line to `/etc/aliases` (works for Postfix, Sendmail, etc.):
 
 ```
 test:              "|/usr/local/bin/processtestemail.php"
@@ -43,4 +44,4 @@ test:              "|/usr/local/bin/processtestemail.php"
 **References:**  
 - https://docs.python.org/3/library/email.message.html#email.message.EmailMessage  
 - https://docs.python.org/3/library/smtplib.html  
-
+- https://serverfault.com/questions/506894/how-to-route-email-to-a-script  
