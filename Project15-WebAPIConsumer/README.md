@@ -20,3 +20,6 @@ Approach:
 
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
+
+Analyze the data and extract the necessary details.
+![image](https://github.com/user-attachments/assets/2e6f66a5-296e-49bd-ba9c-6abf1cc48cad)
