@@ -1,11 +1,11 @@
 ## Scenario 15: Working with Web APIs
-**Problem Statement: Fetching data from a web API.
+**Problem Statement: Fetching data from a web API.**
 
-**Detailed Scenario: The application needs to interact with a public API, sending requests and processing the response to extract relevant data.
+**Detailed Scenario: The application needs to interact with a public API, sending requests and processing the response to extract relevant data.**
 
-**Usecase Approach: Use Python’s requests module to send HTTP requests and parse the JSON or XML responses.
+**Usecase Approach: Use Python’s requests module to send HTTP requests and parse the JSON or XML responses.**
 
-**Tools and Modules: requests
+**Tools and Modules: requests**
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
