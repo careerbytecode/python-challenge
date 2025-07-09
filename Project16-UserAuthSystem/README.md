@@ -21,6 +21,3 @@
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
-**References:**  
-- [`hashlib`](https://docs.python.org/3/library/hashlib.html)  
-- [`os`](https://docs.python.org/3/library/os.html)
