@@ -28,3 +28,5 @@ Refrence:
 - [Python threading — Official Documentation](https://docs.python.org/3/library/threading.html)
 - [Real Python: An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/)
 - [Python time — Official Documentation](https://docs.python.org/3/library/time.html)
+
+<img width="796" height="612" alt="image" src="https://github.com/user-attachments/assets/62002737-7a5f-4858-956d-3ea4f5a823e1" />
