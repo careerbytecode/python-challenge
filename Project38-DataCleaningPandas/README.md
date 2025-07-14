@@ -26,3 +26,6 @@
 **Reference:**  
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Small YouTube tutorial](https://www.youtube.com/watch?v=bDhvCp3_lYw)
+
+
+  <img width="800" height="1013" alt="image" src="https://github.com/user-attachments/assets/0063d3f7-d532-4e16-a2da-311f463654da" />
