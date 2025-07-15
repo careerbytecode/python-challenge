@@ -17,6 +17,7 @@ Send JSON responses using jsonify() and run the app with app.run(debug=True).
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════  
 Refrence:
--[Flask Intro](https://python-adv-web-apps.readthedocs.io/en/latest/flask.html#deconstruct-the-code-in-a-small-flask-app)
+- [Flask Intro](https://python-adv-web-apps.readthedocs.io/en/latest/flask.html#deconstruct-the-code-in-a-small-flask-app)
+- [Youtube Video - Build a Flask REST API](https://www.youtube.com/watch?v=z3YMz-Gocmw)
 
 <img width="1912" height="1033" alt="image" src="https://github.com/user-attachments/assets/edf1e7be-1c95-462a-b33d-709f4abe8164" />
