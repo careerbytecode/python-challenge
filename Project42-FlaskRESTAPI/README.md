@@ -7,7 +7,7 @@
 
 **Tools and Modules: Flask**
 
-══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
+══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════  
 Approch:  
 Set up Flask app and use a list (items) to store data temporarily.  
 Create /items route for GET to return all items and POST to add a new one.  
@@ -15,7 +15,7 @@ Use request.get_json() to read data, validate name and price, and avoid duplicat
 Send JSON responses using jsonify() and run the app with app.run(debug=True).  
 
 
-══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
+══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════  
 Refrence:
 -[Flask Intro](https://python-adv-web-apps.readthedocs.io/en/latest/flask.html#deconstruct-the-code-in-a-small-flask-app)
 
