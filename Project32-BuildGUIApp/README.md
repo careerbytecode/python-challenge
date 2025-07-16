@@ -10,3 +10,7 @@
 
 Approach:  
 - 
+
+
+
+<img width="381" height="296" alt="image" src="https://github.com/user-attachments/assets/fe69a764-5d26-4da4-9481-bca4875befd6" />
