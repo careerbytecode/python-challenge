@@ -17,3 +17,5 @@ Approach:
 - Keep chatting until the user types exit or quit  
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
+Output:  
+<img width="716" height="396" alt="image" src="https://github.com/user-attachments/assets/50b3ee11-a80d-4ceb-92af-40c98548a8db" />
