@@ -22,3 +22,5 @@ Refrence:
 - threading - to simulate or handle background data collection  
 - queue - to safely pass data between threads  
 - time, random - for simulation  
+
+<img width="968" height="270" alt="image" src="https://github.com/user-attachments/assets/b2aae81c-e1a8-4159-82ab-4c5a26455884" />
