@@ -13,3 +13,6 @@ Approach:
 - Use bcrypt to hash passwords before storing them   
 - Store the hashed value in your database (not the plain password)  
 - When a user logs in, hash their input and compare with stored hash using checkpw  
+
+
+<img width="1498" height="112" alt="image" src="https://github.com/user-attachments/assets/788a56f5-af7d-4d68-8de0-611868fcfd2f" />
