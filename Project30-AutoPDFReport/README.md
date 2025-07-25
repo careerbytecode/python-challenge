@@ -1,4 +1,4 @@
-##Scenario 30: Automating Report Generationa  
+##Scenario 30: Automating Report Generation
 **Problem Statement: Automatically generating and sending PDF reports.**  
 
 **Detailed Scenario: A system needs to generate PDF reports from dynamic data and send them via email at specific intervals.**  
@@ -17,9 +17,10 @@ Approach:
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
 
-We can add this function and incoprate to fetch latest data from openstack itself.
+We can add this function and incorporate to fetch the latest data from OpenStack itself.
 
 
+```
 def fetch_openstack_vms():
     conn = connection.Connection(
         auth_url=os.getenv("OS_AUTH_URL"),
@@ -39,4 +40,5 @@ def fetch_openstack_vms():
         }
         vm_list.append(vm_info)
     return vm_list
+```
 
