@@ -1,0 +1,42 @@
+##Scenario 30: Automating Report Generationa  
+**Problem Statement: Automatically generating and sending PDF reports.**  
+
+**Detailed Scenario: A system needs to generate PDF reports from dynamic data and send them via email at specific intervals.**  
+
+**Usecase Approach: Use Python’s reportlab module to generate PDFs and smtplib to send emails.**  
+
+**Tools and Modules: reportlab, smtplib**  
+
+══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════  
+Approach:  
+- Use reportlab to design a structured, readable PDF  
+- Fetch real-time OpenStack VM data (dummy in example)  
+- Use smtplib to securely send the email with PDF attached  
+- Can be scheduled using cron or schedule Python module  
+
+══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
+
+
+We can add this function and incoprate to fetch latest data from openstack itself.
+
+
+def fetch_openstack_vms():
+    conn = connection.Connection(
+        auth_url=os.getenv("OS_AUTH_URL"),
+        project_name=os.getenv("OS_PROJECT_NAME"),
+        username=os.getenv("OS_USERNAME"),
+        password=os.getenv("OS_PASSWORD"),
+        user_domain_name=os.getenv("OS_USER_DOMAIN_NAME", "default"),
+        project_domain_name=os.getenv("OS_PROJECT_DOMAIN_NAME", "default")
+    )
+
+    vm_list = []
+    for server in conn.compute.servers():
+        vm_info = {
+            "Name": server.name,
+            "Status": server.status,
+            "IP": next(iter(server.addresses.values()))[0]['addr'] if server.addresses else "N/A"
+        }
+        vm_list.append(vm_info)
+    return vm_list
+
