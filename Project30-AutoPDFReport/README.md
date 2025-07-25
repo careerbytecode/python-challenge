@@ -1,4 +1,4 @@
-##Scenario 30: Automating Report Generation
+## Scenario 30: Automating Report Generation  
 **Problem Statement: Automatically generating and sending PDF reports.**  
 
 **Detailed Scenario: A system needs to generate PDF reports from dynamic data and send them via email at specific intervals.**  
