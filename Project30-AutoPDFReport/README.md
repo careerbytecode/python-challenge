@@ -42,3 +42,4 @@ def fetch_openstack_vms():
     return vm_list
 ```
 
+<img width="572" height="440" alt="image" src="https://github.com/user-attachments/assets/9ca6dd12-3cf4-4005-9e67-f64ec5f6256d" />
