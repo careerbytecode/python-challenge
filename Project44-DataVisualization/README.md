@@ -15,4 +15,6 @@ Approach:
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
+<img width="1247" height="711" alt="image" src="https://github.com/user-attachments/assets/84a95a33-0d02-4974-9ae8-4746a548cb18" />
 
+<img width="1252" height="716" alt="image" src="https://github.com/user-attachments/assets/b3075239-3b4c-4e64-b2f6-79db26806b10" />
