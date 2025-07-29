@@ -19,3 +19,7 @@ Approach:
 
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
+
+<img width="795" height="87" alt="image" src="https://github.com/user-attachments/assets/30bbfc3d-894d-44cf-a4fa-7173305dd8d9" />
+
+<img width="550" height="197" alt="image" src="https://github.com/user-attachments/assets/4fec4361-7ad5-4467-8941-c7a1feca7b0d" />
