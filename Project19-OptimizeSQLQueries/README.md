@@ -14,5 +14,6 @@ Approach:
 - Batch inserts: Done in one loop instead of repeated commits.  
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════  
+<img width="555" height="231" alt="image" src="https://github.com/user-attachments/assets/cea341bb-d06e-4717-9b62-904d19297a2d" />
 
 
