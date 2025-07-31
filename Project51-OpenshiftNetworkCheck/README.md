@@ -1,4 +1,4 @@
-## Scenario 1: File Processing and Automation
+## Scenario 51: File Processing and Automation
 **Problem Statement:** You want to automate the detection of Pod-level networking issues inside an OpenShift cluster from a remote or bastion host.  
 
 **Detailed Scenario:** In complex OpenShift setups, Pods may experience intermittent connectivity issues due to CNI problems, misconfigured NetworkPolicies, or DNS failures.  
@@ -18,4 +18,6 @@ Approach:
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
+
+<img width="781" height="322" alt="image" src="https://github.com/user-attachments/assets/57c1167c-2557-45f8-96f4-f1e308445900" />
 
