@@ -9,8 +9,12 @@
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════  
 Approach:  
-
-
+- Use Python’s xml.etree.ElementTree to load and parse the XML file.  
+- Traverse the XML tree to find specific tags (e.g., <user>, <name>, <email>).  
+- Extract the required text or attribute values.  
+- Store or print the extracted data in a readable format.  
 
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════  
+
+
