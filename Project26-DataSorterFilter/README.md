@@ -7,11 +7,11 @@
 
 **Tools and Modules: sorted(), filter()**  
 
-══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
+══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════  
 Approach:  
 - Use Python’s sorted() function to sort a list of dictionaries by a key.  
 - Use list comprehensions or the filter() function to extract data that meets a condition.  
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
-
+<img width="735" height="123" alt="image" src="https://github.com/user-attachments/assets/9d427cce-0979-48fd-af97-8cafde449674" />
