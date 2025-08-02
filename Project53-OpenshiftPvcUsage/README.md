@@ -11,7 +11,11 @@
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
 Approach:  
-- 
+- Use Python▒~@~Ys subprocess to call oc get pvc and oc describe pvc  
+- Parse PVC size (spec.resources.requests.storage) and usage (Used By or volume metrics if available)  
+- Compare against a threshold (e.g., 80%)  
+- Output results as HTML and CSV  
+
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
