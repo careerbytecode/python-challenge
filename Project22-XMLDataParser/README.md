@@ -1,5 +1,5 @@
 ## Scenario 22: Parsing XML Data  
-**Problem Statement: The application needs to extract specific elements from XML documents received from external systems for further processing.  
+**Problem Statement: The application needs to extract specific elements from XML documents received from external systems for further processing.**  
 
 **Detailed Scenario: The system frequently receives XML files, such as configuration data, transaction logs, or user profiles. These files contain structured data with nested tags. The goal is to identify and extract specific elements like <username>, <email>, or <status> so that the relevant data can be logged, transformed, or passed into another system for processing.**  
 
@@ -17,4 +17,5 @@ Approach:
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════  
 
+<img width="742" height="487" alt="image" src="https://github.com/user-attachments/assets/ac24957f-f333-4513-9218-7f2101b73c88" />
 
