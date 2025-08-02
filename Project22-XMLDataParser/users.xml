@@ -1,0 +1,23 @@
+<users>
+    <user id="101">
+        <name>Pankaj Pratap Singh</name>
+        <email>pankajps@example.com</email>
+        <role>Admin</role>
+    </user>
+    <user id="102">
+        <name>Arimardan Singh</name>
+        <email>arimardan@example.com</email>
+        <role>User</role>
+    </user>
+    <user id="103">
+        <name>Manoj Singh</name>
+        <email>manoj@example.com</email>
+        <role>User</role>
+    </user>
+    <user id="104">
+        <name>Aaruth Pratap Singh</name>
+        <email>aaruthpsingh@example.com</email>
+        <role>User</role>
+    </user>
+</users>
+
