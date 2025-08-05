@@ -1,0 +1,2 @@
+2025-08-06 00:04:42,846 - WARNING - API down: https://httpbin.org/status/404
+2025-08-06 00:04:50,312 - WARNING - API down: https://nonexistent.example.com

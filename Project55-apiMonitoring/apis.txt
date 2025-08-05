@@ -1,0 +1,3 @@
+https://api.github.com
+https://httpbin.org/status/404
+https://nonexistent.example.com
