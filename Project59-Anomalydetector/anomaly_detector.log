@@ -1,0 +1,14 @@
+2025-08-08 23:41:30,967 | INFO | Starting monitor | interval=5.0s window=24 warmup=8 threshold=25% mount=/
+2025-08-08 23:41:30,968 | DEBUG | CPU current=0.0% baseline_avg=0.0% (n=1)
+2025-08-08 23:41:30,968 | DEBUG | MEM current=7.9% baseline_avg=0.0% (n=1)
+2025-08-08 23:41:30,969 | DEBUG | DISK current=0.7% baseline_avg=0.0% (n=1)
+2025-08-08 23:41:30,969 | INFO | CPU=0.0% MEM=7.9% DISK=0.7%
+2025-08-08 23:41:35,975 | DEBUG | CPU current=0.0% baseline_avg=0.0% (n=2)
+2025-08-08 23:41:35,976 | DEBUG | MEM current=7.9% baseline_avg=0.0% (n=2)
+2025-08-08 23:41:35,977 | DEBUG | DISK current=0.7% baseline_avg=0.0% (n=2)
+2025-08-08 23:41:35,996 | INFO | CPU=0.0% MEM=7.9% DISK=0.7%
+2025-08-08 23:41:41,003 | DEBUG | CPU current=0.0% baseline_avg=0.0% (n=3)
+2025-08-08 23:41:41,004 | DEBUG | MEM current=8.0% baseline_avg=0.0% (n=3)
+2025-08-08 23:41:41,004 | DEBUG | DISK current=0.7% baseline_avg=0.0% (n=3)
+2025-08-08 23:41:41,005 | INFO | CPU=0.0% MEM=8.0% DISK=0.7%
+2025-08-08 23:41:44,869 | INFO | Stopped by user.
