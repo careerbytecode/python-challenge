@@ -11,7 +11,9 @@
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
 Approach:  
-- 
+- Use Python’s watchdog or tail -f style streaming to monitor logs in near real time.  
+- Maintain a rolling count of errors in a deque for the last X seconds.  
+- When a spike threshold is crossed, capture the most recent error entries for quick triage.  
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
