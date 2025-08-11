@@ -26,3 +26,6 @@ sudo python3 file_integrity.py --check files.txt
 
 Investigate any reported drift; if legitimate changes were made, re-baseline.
 
+The same can be done using Enhancing Linux security with Advanced Intrusion Detection Environment (AIDE) in Linux - https://www.redhat.com/en/blog/linux-security-aide
+
+<img width="833" height="238" alt="image" src="https://github.com/user-attachments/assets/a720b3e2-aa82-44a1-a5b3-c3a3266e1f9d" />
