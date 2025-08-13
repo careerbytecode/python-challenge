@@ -19,8 +19,8 @@ Approach:
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
-# Run one-time check
+#### Run one-time check
 python service_health_checker.py services.txt --once
 
-# Monitor continuously every 60 seconds
+#### Monitor continuously every 60 seconds
 python service_health_checker.py services.txt --interval 60
