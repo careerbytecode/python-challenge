@@ -5,7 +5,7 @@
 
 **Use Case Approach: Read the list of critical services from a configuration file, If the service is inactive, restart it and log the event.**  
 
-**Tools and Modules: subprocess, **  
+**Tools and Modules: subprocess**  
 
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
