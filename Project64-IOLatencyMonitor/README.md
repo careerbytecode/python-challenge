@@ -11,7 +11,10 @@
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
 Approach:  
-- 
+- Collect disk I/O statistics from iostat or /proc/diskstats  
+- Parse read/write operations per second, average queue size, and average wait time  
+- Compare with configurable thresholds  
+- Log to file and print summary in the console  
 
 ══════════════ ⭑ ⭑ ⭑ ⭑ ⭑ ══════════════
 
