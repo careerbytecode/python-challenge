@@ -21,3 +21,5 @@ Usage
   --iterations: number of updates, 0 = run forever  
   --util-threshold: mark devices with util >= this %  
   --await-threshold: mark devices with await >= this ms  
+
+<img width="1130" height="533" alt="image" src="https://github.com/user-attachments/assets/e548fe2a-d963-46ad-884b-8db0765d10ed" />
