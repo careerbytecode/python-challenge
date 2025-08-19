@@ -31,3 +31,9 @@ Approach:
 
   # Filter by label (e.g., only app=myapp)
   python oc_pod_restarter.py -n my-namespace --selector app=myapp
+
+<img width="1203" height="512" alt="image" src="https://github.com/user-attachments/assets/5acf1103-1e69-4105-9e5d-12df6f3ffc2b" />
+
+<img width="1108" height="282" alt="image" src="https://github.com/user-attachments/assets/902b4239-2eae-446b-aeba-24c2f014ecf8" />
+
+<img width="1038" height="661" alt="image" src="https://github.com/user-attachments/assets/b93177a2-35fb-4bf6-8cc5-08c932a5cfa8" />
